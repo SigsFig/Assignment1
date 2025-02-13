@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Nicholas Hoang
 # FILENAME: decision_tree.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Outputs a decision tree based on the contact_lens.csv file, which contains data on patients who do and do not need contact lenses
 # FOR: CS 4210- Assignment #1
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 4 hours
 #-----------------------------------------------------------*/
 
 #IMPORTANT NOTE: DO NOT USE ANY ADVANCED PYTHON LIBRARY TO COMPLETE THIS CODE SUCH AS numpy OR pandas. You have to work here only with standard
